@@ -101,13 +101,13 @@ for(i=0; i<employees.length; i++){
 //			bonus = sal * 0.04 + sal * 0.05;
 //		}else if
 //			(rate === 4 && num.length < 4){
-//			bonus = sal + sal * 0.06;
+//			bonus = sal * 0.06;
 //		}else if
 //			(rate === 4 && num.length >= 4){
 //			bonus = sal * 0.06 + sal * 0.05;	
 //		}else if
 //			(rate === 5 && num.length < 4){
-//			bonus = sal + sal * 0.10;
+//			bonus = sal * 0.10;
 //		}else if
 //			(rate === 5 && num.length >= 4){
 //			bonus = sal * 0.10 + sal * 0.05;	
